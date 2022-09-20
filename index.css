@@ -47,8 +47,15 @@ table {
 	border-spacing: 0;
 }
 
+/* ------- STOPPED HERE ------- */
+body {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 1rem;
+    color: #000000;
+    background-color: #fffafa;
+  }
 
-#plan,
+.links #plan,
 .footer {
     color: #fff;
     background-color: #FF764E;
